@@ -4,5 +4,7 @@ Changes:
 
 - Custom stylesheets/scss
 
-    # Edit the scss, then build the css
+
+
     rake build_css
+    
